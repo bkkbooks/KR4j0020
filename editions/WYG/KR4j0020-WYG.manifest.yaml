@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR4j0020/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4j0020/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 石林詞
+  date: '2015-08-25 00:47:27.815955'
+  source:
+    repository: kanripo
+    path: KR4j0020
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4j0020_000-WYG.yaml, hash: 'sha256:cbd984a7ced2e4f9f9434d53ae0eed9118b7dbef3d70ece287613b72a8179009'}
+  - {seq: 1, filename: KR4j0020_001-WYG.yaml, hash: 'sha256:6960c960c6382fba37e413114455550861ff9a73af3657aca6f99fe2f817c0ff'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4j0020_000-WYG.markers.yaml, hash: 'sha256:98d092fe0661bf1161a7e170f7e58d10a6b8349e9351f99b74330ec0ca7be61f'}
+  - {seq: 1, role: markers, filename: assets/KR4j0020_001-WYG.markers.yaml, hash: 'sha256:4a01e1ae02742e40236c039d46c5f92122ba6f11b129588cf46894afba0731a6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4j0020_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 974
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4j0020_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 7823
+  label: 石林詞
+  type: section
+  level: 1
+hash: sha256:072f270754479225f5272ff67bebcba3cda865851d1927b5222a60aa8f6e86ae
