@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR4j0020_000-WYG.yaml, hash: 'sha256:cbd984a7ced2e4f9f9434d53ae0eed9118b7dbef3d70ece287613b72a8179009'}
   - {seq: 1, filename: KR4j0020_001-WYG.yaml, hash: 'sha256:6960c960c6382fba37e413114455550861ff9a73af3657aca6f99fe2f817c0ff'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4j0020_000-WYG.markers.yaml, hash: 'sha256:98d092fe0661bf1161a7e170f7e58d10a6b8349e9351f99b74330ec0ca7be61f'}
-  - {seq: 1, role: markers, filename: assets/KR4j0020_001-WYG.markers.yaml, hash: 'sha256:4a01e1ae02742e40236c039d46c5f92122ba6f11b129588cf46894afba0731a6'}
+  - {seq: 0, role: markers, filename: assets/KR4j0020_000-WYG.markers.yaml, hash: 'sha256:f909a060d4ddfde39b776b43903428cb3d7fe0e65ed1fb57a2de97ce8d4774f8'}
+  - {seq: 1, role: markers, filename: assets/KR4j0020_001-WYG.markers.yaml, hash: 'sha256:b061ce646775fba716b39cf0dc2dd658ea5c15c60166862bd527de2611db0e70'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 石林詞
   type: section
   level: 1
-hash: sha256:072f270754479225f5272ff67bebcba3cda865851d1927b5222a60aa8f6e86ae
+hash: sha256:f5c8c1f0561f0015ba9d25f9461d76ba85c776c117f529e40ac2e691f04e88f7

@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR4j0020_000.yaml, hash: 'sha256:a64e6635952c262664743abafc110226ddef88534973590940790d4466e1e96f'}
   - {seq: 1, filename: KR4j0020_001.yaml, hash: 'sha256:dc7a16f313799092edc8dc3f499920a79a847e96f6db80182597b1aaf3e183cf'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4j0020_000.markers.yaml, hash: 'sha256:66b51798236a408dbe003552a2a3f247094b0fcae17f3c39d1179601cfe228b8'}
-  - {seq: 1, role: markers, filename: assets/KR4j0020_001.markers.yaml, hash: 'sha256:0c5e8ce55647c9b66bd41ce6c26ce1a0171546e988a9713af832c98616f572d2'}
+  - {seq: 0, role: markers, filename: assets/KR4j0020_000.markers.yaml, hash: 'sha256:d90309ff5eec93de54044b0c860796f3a3ac32bdf6b916a49252ffa1e1baa927'}
+  - {seq: 1, role: markers, filename: assets/KR4j0020_001.markers.yaml, hash: 'sha256:1b2a6ab6b33dc59644997addbc664615d5ea0c8560387e07d182343deb11bdc1'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 石林詞
   type: section
   level: 1
-hash: sha256:86f21cb2dd229b75134056ef38385cf73793e4f487ac672be35d08db50a58db0
+hash: sha256:b5c1c24147d68830362254146bfa6ffb4d404e4dc8231cda32b96a20e6b2e8b4
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
